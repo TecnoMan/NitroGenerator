@@ -1,0 +1,27 @@
+.swagButton {
+
+    margin: 0;
+    position: absolute;
+    left: 40%;
+    top: 90%;
+    color: #31a6ff;
+    font-family: "proxima nova";
+    font-weight: 1000;
+    font-size: 56px;
+    text-align: center;
+
+    border: solid 2px #31a6ff
+    border-radius: 5px;
+
+    padding: 10px 80px;
+
+    -webkit-transition-duration: 200ms;
+    transition-duration: 200ms;
+}
+
+.swagButton:hover {
+
+    background-color: #31a6ff;
+    color: #fff;
+
+}
